@@ -1,0 +1,24 @@
+@media screen and (min-width: 576px) {
+.backBack{
+    background-color: #c8b9f5;
+}
+.introContainer{
+    align-items: stretch;
+}
+
+.carousel-item {
+    height: 400px;
+    overflow: hidden;
+    width: 100%;
+    }
+    .carousel-item img {
+    width: 100%;
+    }
+
+    .imageIntro{
+        background-image: url("image_intro9.jpeg");
+        background-repeat: no-repeat;
+        background-size: contain;
+    }
+}
+
