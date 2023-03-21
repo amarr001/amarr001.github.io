@@ -11,20 +11,10 @@
     .carousel-item img {
     width: 100%;
     }
-
-    .imageIntro{
-        background-image: url("image_intro2.jpeg") ;
-        background-size: contain;
-        opacity: 0.4;
-    }
     .introText{
         color: black;
         text-align: center;
         word-wrap: break-word;
-        
-    }
-    .textCont{
-       
     }
     .videoAlign{
             display: block;
@@ -33,5 +23,6 @@
     .backVideo{
         background-color:  #b8a9c9   }
 }
+
 
 
