@@ -21,7 +21,7 @@
             margin-left: auto;
     }
     .backVideo{
-        background-color:  #b8a9c9   }
+        background-color:#B2AC88   }
 
     .zoomOne:hover{
         transform: scale(1.5);
@@ -50,6 +50,31 @@
       }
       .vl {
         border-left: dotted #7251b2;
+      }
+      .maskConf{
+        background-color: #228B22;
+        opacity: 0.6;
+        margin: auto;
+        width: 50%;
+        padding: 40px;
+      }
+      .colourExp{
+        color: #FFFACD;
+      }
+      .stripOne{
+        background-color: #F6F7C1;
+      }
+      .roundImage{
+       border-radius: 5%
+      }
+      .stripTwo{
+        background-color: #BEF0CB;
+      }
+      .stripThree{
+        background-color: #D1FFF3;
+      }
+      .stripFour{
+        background-color: #FDEBED;
       }
 }
 
