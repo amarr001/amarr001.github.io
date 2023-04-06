@@ -62,19 +62,22 @@
         color: #FFFACD;
       }
       .stripOne{
-        background-color: #F6F7C1;
+        background-color: #ADA2FF;
       }
       .roundImage{
        border-radius: 5%
       }
       .stripTwo{
-        background-color: #BEF0CB;
+        background-color: #C0DEFF;
       }
       .stripThree{
         background-color: #D1FFF3;
       }
       .stripFour{
         background-color: #FDEBED;
+      }
+      .stripFive{
+        background-color: #C1AEFC;
       }
 }
 
