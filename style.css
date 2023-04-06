@@ -48,6 +48,9 @@
         padding: 15px;
         text-align: left;
       }
+      .vl {
+        border-left: dotted #7251b2;
+      }
 }
 
 
