@@ -5,8 +5,7 @@ Group Project number 15, members:\
  Alina Pokhrel\
  Ana Marr\
  Difla Karakkadan\
- 
- Meenakshi Deswal\ 
+ Meenakshi Deswal\
  Michelle Cheung\
  Robin Kaur\
  Roshini Sam 
