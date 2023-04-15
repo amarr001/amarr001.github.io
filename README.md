@@ -1,7 +1,7 @@
 # FON_GROUP15
 
 Group Poster from Foundatons of Nursing  - Master of Nursing Science, University of Melbourne.
-Group Project number 15, members:
+Group Project number 15, members:\
  Alina Pokhrel\
  Ana Marr\
  Difla Karakkadan\ 
