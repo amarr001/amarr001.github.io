@@ -4,7 +4,7 @@ Group Poster from Foundatons of Nursing  - Master of Nursing Science, University
 Group Project number 15, members:\
  Alina Pokhrel\
  Ana Marr\
- Difla Karakkadan\ 
+ Difla Karakkadan \ 
  Meenakshi Deswal\ 
  Michelle Cheung\
  Robin Kaur\
