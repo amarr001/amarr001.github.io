@@ -6,8 +6,8 @@ Group Project number 15, members:
  Ana Marr\
  Difla Karakkadan\ 
  Meenakshi Deswal\ 
- Michelle Cheung \
- Robin Kaur \
+ Michelle Cheung\
+ Robin Kaur\
  Roshini Sam 
 
 Subject Intended Learning Outcome (SILO): The role of the registered nurse in terms of philosophical, theoretical, practical and regulatory frameworks 
