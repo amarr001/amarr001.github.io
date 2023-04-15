@@ -8,7 +8,7 @@ Group Project number 15, members:
  Meenakshi Deswal\ 
  Michelle Cheung \
  Robin Kaur \
- Roshini Sam \
+ Roshini Sam 
 
 Subject Intended Learning Outcome (SILO): The role of the registered nurse in terms of philosophical, theoretical, practical and regulatory frameworks 
 at an individual and professional level.
